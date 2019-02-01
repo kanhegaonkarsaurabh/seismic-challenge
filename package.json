@@ -1,0 +1,26 @@
+{
+  "name": "seismic-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanhegaonkarsaurabh/seismic-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kanhegaonkarsaurabh/seismic-challenge/issues"
+  },
+  "homepage": "https://github.com/kanhegaonkarsaurabh/seismic-challenge#readme",
+  "dependencies": {
+    "parse-json": "^4.0.0",
+    "sha256": "^0.2.0"
+  },
+  "devDependencies": {
+    "javascript-obfuscator": "^0.18.1"
+  }
+}
